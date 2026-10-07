@@ -1,7 +1,7 @@
 /*
    Description: Lesson 5 - Specific Input example
    Author: Mr. Kowalczewski
-   Date of last edit: September 23, 2026
+   Date of last edit: October 7, 2026
 */
 
 function setup() {
